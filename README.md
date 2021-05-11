@@ -13,11 +13,11 @@ The Application is deployed in [https://coronafact.in/](https://coronafact.in/)
 
 ### Home Page
 
-![Home Page](/images/covid19-recovered.png)
+![Home Page](/images/covid19-total.png)
 
 ### Recovered Tab
 
-![Recovered Tab](/images/covid19-total.png)
+![Recovered Tab](/images/covid19-recovered.png)
 
 ## Prerequisites
 
