@@ -17,7 +17,7 @@ The Application is deployed in [https://coronafact.in/](https://coronafact.in/)
 
 ### Recovered Tab
 
-![Signup Page](images/covid-19-recovered.png)
+![Recovered Tab](images/covid-19-recovered.png)
 
 ## Prerequisites
 
